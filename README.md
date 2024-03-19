@@ -1,5 +1,11 @@
 # Directory Brute Forcing Script
 
+## About me
+
+Name : ANDRIATSITOHAINA Ny Ando Mayah
+Email: hei.mayah.3@gmail.com
+ID: STD21039
+
 ## Overview
 
 This Python script is designed for directory brute forcing, a technique used to discover hidden directories or files on a web server. The script takes a list of potential directory or file names (commonly known as a wordlist) and sends HTTP requests to the server for each item in the list. If the server responds with specific HTTP status codes (200, 500, or 403), the directory or file is considered found and added to the list of discovered items.
