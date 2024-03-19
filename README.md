@@ -2,9 +2,9 @@
 
 ## About me
 
-Name : ANDRIATSITOHAINA Ny Ando Mayah
-Email: hei.mayah.3@gmail.com
-ID: STD21039
+- Name : ANDRIATSITOHAINA Ny Ando Mayah
+- Email: hei.mayah.3@gmail.com
+- ID: STD21039
 
 ## Overview
 
